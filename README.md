@@ -17,22 +17,9 @@ Here are some ideas to get you started:
 
 
 
-<!-- <p align="left">
+<p align="center">
 <a href="https://github.com/SunuGalih">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sunugalih&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sunugalih&layout=compact&theme=algolia"/>
 </a>
-</p> -->
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sunugalih&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sunugalih&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sunugalih&show_icons=true" />
-</picture>
+</p>
