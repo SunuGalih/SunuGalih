@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunuGalih&label=Profile views&color=0e75b6&style=flat" alt="SunuGalih" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=400&height=44&lines=Full-Stack%20Developer;AI%20Apliccation%20Developer" alt="Typing headlines" />
+</p>
+
 - 📫 How to reach me **a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
