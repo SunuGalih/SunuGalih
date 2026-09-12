@@ -1,19 +1,18 @@
-# Hi 👋, I'm Galih
-
-### A passionate Full-Stack Developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SunuGalih&label=Profile views&color=0e75b6&style=flat" alt="SunuGalih" /> </p>
+<p align="center">
+  <a href="https://github.com/SunuGalih">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Galih" alt="Hello! I&#39;m Galih" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=400&height=44&lines=Full-Stack%20Developer;AI%20Apliccation%20Developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=400&height=44&lines=Full-Stack%20Developer;AI%20Apliccation%20Developer" alt="Typing headlines" />
 </p>
 
 - 📫 How to reach me **a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/SunuGalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SunuGalih" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ scdgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" scdgd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sunu-galih-prayoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" scdgd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
